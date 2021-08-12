@@ -6,7 +6,7 @@ import Alternative from './Alternative';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Alternative />
   </React.StrictMode>,
   document.getElementById('root')
 );
